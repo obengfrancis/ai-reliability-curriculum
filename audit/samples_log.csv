@@ -1,0 +1,76 @@
+﻿sample_id,prompt,model,model_version,date,compiles,edits_to_compile
+config_chatgpt_01,p1,ChatGPT,GPT-5.5 Thinking,5/29/26,yes,none
+api_chatgpt_01,p2,ChatGPT,GPT-5.5 Thinking,5/29/26,yes,none
+dbquery_chatgpt_01,p3,ChatGPT,GPT-5.5 Thinking,5/29/26,yes,none
+fileio_chatgpt_01,p4,ChatGPT,GPT-5.5 Thinking,5/29/26,yes,none
+parallel_chatgpt_01,p5,ChatGPT,GPT-5.5 Thinking,5/29/26,yes,none
+config_claude_01,p1,Claude,claude-sonnet-4.6,5/29/26,yes,none
+api_claude_01,p2,Claude,claude-sonnet-4.6,5/29/26,yes,none
+dbquery_claude_01,p3,Claude,claude-sonnet-4.6,5/29/26,yes,none
+fileio_claude_01,p4,Claude,claude-sonnet-4.6,5/29/26,yes,none
+parallel_claude_01,p5,Claude,claude-sonnet-4.6,5/29/26,yes,none
+config_copilot_01,p1,Copilot,Haiku 4.5,5/29/26,yes,none
+api_copilot_01,p2,Copilot,Haiku 4.5,5/29/26,yes,none
+dbquery_copilot_01,p3,Copilot,Haiku 4.5,5/29/26,yes,none
+fileio_copilot_01,p4,Copilot,Haiku 4.5,5/29/26,yes,none
+parallel_copilot_01,p5,Copilot,Haiku 4.5,5/29/26,yes,none
+config_chatgpt_02,p1,ChatGPT,GPT-5.5 Thinking,6/2/26,yes,none
+api_chatgpt_02,p2,ChatGPT,GPT-5.5 Thinking,6/2/26,yes,none
+dbquery_chatgpt_02,p3,ChatGPT,GPT-5.5 Thinking,6/2/26,yes,none
+fileio_chatgpt_02,p4,ChatGPT,GPT-5.5 Thinking,6/2/26,yes,none
+parallel_chatgpt_02,p5,ChatGPT,GPT-5.5 Thinking,6/2/26,yes,none
+config_claude_02,p1,Claude,claude-sonnet-4.6,6/2/26,yes,none
+api_claude_02,p2,Claude,claude-sonnet-4.6,6/2/26,yes,none
+dbquery_claude_02,p3,Claude,claude-sonnet-4.6,6/2/26,yes,none
+fileio_claude_02,p4,Claude,claude-sonnet-4.6,6/2/26,yes,none
+parallel_claude_02,p5,Claude,claude-sonnet-4.6,6/2/26,yes,none
+config_copilot_02,p1,Copilot,Haiku 4.5,6/2/26,yes,none
+api_copilot_02,p2,Copilot,Haiku 4.5,6/2/26,yes,none
+dbquery_copilot_02,p3,Copilot,Haiku 4.5,6/2/26,yes,none
+fileio_copilot_02,p4,Copilot,Haiku 4.5,6/2/26,yes,none
+parallel_copilot_02,p5,Copilot,Haiku 4.5,6/2/26,yes,none
+config_chatgpt_03,p1,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+api_chatgpt_03,p2,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+dbquery_chatgpt_03,p3,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+fileio_chatgpt_03,p4,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+parallel_chatgpt_03,p5,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+config_claude_03,p1,Claude,claude-sonnet-4.6,6/3/26,yes,none
+api_claude_03,p2,Claude,claude-sonnet-4.6,6/3/26,yes,none
+dbquery_claude_03,p3,Claude,claude-sonnet-4.6,6/3/26,yes,none
+fileio_claude_03,p4,Claude,claude-sonnet-4.6,6/3/26,yes,none
+parallel_claude_03,p5,Claude,claude-sonnet-4.6,6/3/26,yes,none
+config_copilot_03,p1,Copilot,Haiku 4.5,6/3/26,yes,none
+api_copilot_03,p2,Copilot,Haiku 4.5,6/3/26,yes,none
+dbquery_copilot_03,p3,Copilot,Haiku 4.5,6/3/26,yes,none
+fileio_copilot_03,p4,Copilot,Haiku 4.5,6/3/26,yes,none
+parallel_copilot_03,p5,Copilot,Haiku 4.5,6/3/26,yes,none
+config_chatgpt_04,p1,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+api_chatgpt_04,p2,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+dbquery_chatgpt_04,p3,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+fileio_chatgpt_04,p4,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+parallel_chatgpt_04,p5,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+config_claude_04,p1,Claude,claude-sonnet-4.6,6/3/26,yes,none
+api_claude_04,p2,Claude,claude-sonnet-4.6,6/3/26,yes,none
+dbquery_claude_04,p3,Claude,claude-sonnet-4.6,6/3/26,yes,none
+fileio_claude_04,p4,Claude,claude-sonnet-4.6,6/3/26,yes,none
+parallel_claude_04,p5,Claude,claude-sonnet-4.6,6/3/26,yes,none
+config_copilot_04,p1,Copilot,Haiku 4.5,6/3/26,yes,none
+api_copilot_04,p2,Copilot,Haiku 4.5,6/3/26,yes,none
+dbquery_copilot_04,p3,Copilot,Haiku 4.5,6/3/26,yes,none
+fileio_copilot_04,p4,Copilot,Haiku 4.5,6/3/26,yes,none
+parallel_copilot_04,p5,Copilot,Haiku 4.5,6/3/26,yes,none
+config_chatgpt_05,p1,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+api_chatgpt_05,p2,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+dbquery_chatgpt_05,p3,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+fileio_chatgpt_05,p4,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+parallel_chatgpt_05,p5,ChatGPT,GPT-5.5 Thinking,6/3/26,yes,none
+config_claude_05,p1,Claude,claude-sonnet-4.6,6/3/26,yes,none
+api_claude_05,p2,Claude,claude-sonnet-4.6,6/3/26,yes,none
+dbquery_claude_05,p3,Claude,claude-sonnet-4.6,6/3/26,yes,none
+fileio_claude_05,p4,Claude,claude-sonnet-4.6,6/3/26,yes,none
+parallel_claude_05,p5,Claude,claude-sonnet-4.6,6/3/26,yes,none
+config_copilot_05,p1,Copilot,Haiku 4.5,6/3/26,yes,none
+api_copilot_05,p2,Copilot,Haiku 4.5,6/3/26,yes,none
+dbquery_copilot_05,p3,Copilot,Haiku 4.5,6/3/26,yes,none
+fileio_copilot_05,p4,Copilot,Haiku 4.5,6/3/26,yes,none
+parallel_copilot_05,p5,Copilot,Haiku 4.5,6/3/26,yes,none

@@ -1,0 +1,21 @@
+# Maven build output
+target/
+*.class
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# Local environment
+.env
