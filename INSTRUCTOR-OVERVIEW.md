@@ -115,8 +115,8 @@ should never appear on the public branch.
 
 ## Citation
 
-Same as `README.md` on the `main` branch: cite the paper. After
-publication, replace the anonymized form in `README.md` with the
+Same as `README.md` on the `main` branch: cite the paper. After acceptance and
+publication, we will replace the anonymized form in `README.md` with the
 full BibTeX from `CITATION-POST-PUBLICATION.bib`.
 
 ## License
