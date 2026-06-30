@@ -1,0 +1,11 @@
+indicator,percent_agreement,gwet_ac1,cohen_kappa,distribution
+has_try_block,100.0,1.0,1.0,variable
+try_blocks,100.0,1.0,1.0,variable
+empty_catches,100.0,1.0,undefined (constant),constant(all-0)
+generic_catches,100.0,1.0,1.0,variable
+has_retry,100.0,1.0,undefined (constant),constant(all-0)
+has_timeout,100.0,1.0,1.0,variable
+has_circuit_breaker,100.0,1.0,undefined (constant),constant(all-0)
+has_backoff,100.0,1.0,undefined (constant),constant(all-0)
+recovery_present,100.0,1.0,1.0,variable
+propagation_violations,100.0,1.0,undefined (constant),constant(all-0)

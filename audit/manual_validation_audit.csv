@@ -14,7 +14,7 @@ fileio_chatgpt_04,p4,ChatGPT,3,0,0,0,0,0,0,0,0,0,0,Throws IOException; direct on
 fileio_copilot_02,p4,Copilot,3,0,0,0,0,0,0,0,0,0,0,Throws IOException; direct read via Paths.get,
 fileio_claude_02,p4,Claude,3,1,1,0,0,0,0,0,0,0,0,Catches IOException in main,
 fileio_claude_05,p4,Claude,3,1,1,0,0,0,0,0,0,0,0,"Catches IOException, returns empty list",
-config_copilot_01,p1,Copilot,4,1,2,0,1,0,1,0,0,1,,Generic catch in main; 5s timeouts,
+config_copilot_01,p1,Copilot,4,1,2,0,1,0,1,0,0,1,0,Generic catch in main; 5s timeouts,
 api_copilot_04,p2,Copilot,4,1,1,0,1,0,1,0,0,1,0,Catches generic Exception in main; connect (5s) & read (5s) timeouts,
 api_copilot_05,p2,Copilot,4,1,1,0,1,0,0,0,0,0,0,Generic catch; wraps with cause,
 dbquery_copilot_05,p3,Copilot,4,1,2,0,0,0,0,0,0,0,0,No catch blocks; two try-with-resources,

@@ -139,3 +139,9 @@ errata, replication concerns, or suggestions, open an issue on this
 repository. We welcome contributions from instructors adopting
 these materials in their own courses.
 
+## Acknowledgments
+
+The audit script's regex-based pattern detection reuses heuristics
+from prior work on Java exception handling; that work is cited in
+the paper. The five-prompt audit set, the lab designs, and the
+analyzer-wrapper output format are original to this project.
