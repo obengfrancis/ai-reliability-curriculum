@@ -1,8 +1,8 @@
 # Auditing AI-Generated Code for Reliability
-This repository is the replication package for a SIGCSE Technical Symposium 2027 
-Position and Curricula Initiative paper on teaching software reliability in 
-AI-augmented computing courses. It contains the empirical audit motivating the 
-curriculum (Section 3.2) and the three scaffolded labs implementing it (Section 4).
+This repository is the replication package for ICSE SEET 2027 Idea submission paper 
+on teaching software reliability in Software Engineering courses. It contains the 
+empirical audit motivating the curriculum (Section 3.2) and the three scaffolded 
+labs implementing it (Section 4).
 
 ## Repository structure
 
